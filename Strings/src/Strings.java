@@ -74,5 +74,17 @@ public class Strings {
         String caps = "HELLO";
 
         System.out.println("EqualsIgnoreCase : " + small.equalsIgnoreCase(caps));
+
+        String last9Digits = "12345123456789";
+        System.out.println(last9Digits.substring(last9Digits.length()-9));
+        String last = last9Digits.substring(last9Digits.length()-9);
+        StringBuilder sb = new StringBuilder();
+        sb.append(last.charAt(0));
+        sb.append(last.charAt(6));
+        sb.append(last.charAt(7));
+
+        System.out.println(sb);
+
+        System.out.println(sb.indexOf("7"));
     }
 }
