@@ -6,4 +6,5 @@
 #### 4. Substring
 #### 5. Anagrams
 #### 6. LinkedList
+#### 7. Nth smallest number in an array
  
