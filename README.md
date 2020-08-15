@@ -12,4 +12,5 @@
 #### 10. Alternating Characters
 #### 11. Sherlock and the Valid String
 #### 12. Java String Tokens
+#### 13. Repeated String
  
