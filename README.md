@@ -10,4 +10,5 @@
 #### 8.  Make Anagram
 #### 9.  ArrayList HackerRank
 #### 10. Alternating Characters
+#### 11. Sherlock and the Valid String
  
