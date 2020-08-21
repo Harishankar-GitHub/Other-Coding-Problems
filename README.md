@@ -16,4 +16,5 @@
 #### 14. String Reverse - Palindrome
 #### 15. Map
 #### 16. End of file
+#### 17. List
  
