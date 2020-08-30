@@ -20,4 +20,5 @@
 #### 18. Hash Set
 #### 19. Varargs
 #### 20. Fibonacci
+#### 21. Prime Checker
  
