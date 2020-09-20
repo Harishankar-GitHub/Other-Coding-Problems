@@ -26,4 +26,5 @@
 #### 24. Java Loops
 #### 25. Arrays Left Rotation
 #### 26. Java Regex
+#### 27. Pattern Syntax Checker
  
