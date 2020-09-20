@@ -25,4 +25,5 @@
 #### 23. Java Subarray
 #### 24. Java Loops
 #### 25. Arrays Left Rotation
+#### 26. Java Regex
  
