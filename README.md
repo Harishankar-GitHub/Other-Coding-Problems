@@ -30,4 +30,5 @@
 #### 28. Valid Username Regular Expression
 #### 29. Maximum Element - Stack
 #### 30. Balanced Brackets - Stack
+#### 31. Java Stack - Balanced Brackets
  
