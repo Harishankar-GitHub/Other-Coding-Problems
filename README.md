@@ -31,4 +31,5 @@
 #### 29. Maximum Element - Stack
 #### 30. Balanced Brackets - Stack
 #### 31. Java Stack - Balanced Brackets
+#### 32. Longest Palindrome Length
  
