@@ -33,4 +33,4 @@
 #### 31. Java Stack - Balanced Brackets
 #### 32. Longest Palindrome Length
 #### 33. First Non-Repeating Character
- 
+#### 34. Anagram - New
