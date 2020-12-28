@@ -34,3 +34,4 @@
 #### 32. Longest Palindrome Length
 #### 33. First Non-Repeating Character
 #### 34. Anagram - New
+#### 35. Making Anagrams - New
