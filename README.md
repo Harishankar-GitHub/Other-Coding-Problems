@@ -35,3 +35,4 @@
 #### 33. First Non-Repeating Character
 #### 34. Anagram - New
 #### 35. Making Anagrams - New
+#### 36. Palindrome Index
