@@ -36,3 +36,4 @@
 #### 34. Anagram - New
 #### 35. Making Anagrams - New
 #### 36. Palindrome Index
+#### 37. Compare the Triplets
