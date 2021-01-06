@@ -39,3 +39,4 @@
 #### 37. Compare the Triplets
 #### 38. Birthday Cake Candles
 #### 39. Mini-Max Sum
+#### 40. Grading Students
