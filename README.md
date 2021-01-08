@@ -1,8 +1,8 @@
 # :sparkles: Other Coding Problems :sparkles:
 
-#### 1.  Remove a word from a String
-#### 2.  Most repeating element in an array
-#### 3.  Strings
+#### 1.  [Remove a word from a String](https://github.com/Harishankar-GitHub/Other-Coding-Problems/tree/master/Remove%20a%20word%20from%20a%20String/src)
+#### 2.  [Most repeating element in an array](https://github.com/Harishankar-GitHub/Other-Coding-Problems/tree/master/Most%20repeating%20element%20in%20Array/src)
+#### 3.  [Strings](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Strings/src/Strings.java)
 #### 4.  Substring
 #### 5.  Anagrams
 #### 6.  LinkedList
