@@ -40,3 +40,4 @@
 #### 38. Birthday Cake Candles
 #### 39. Mini-Max Sum
 #### 40. Grading Students
+#### 41. Funny String
