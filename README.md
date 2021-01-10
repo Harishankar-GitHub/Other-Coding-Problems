@@ -41,3 +41,4 @@
 #### 39. Mini-Max Sum
 #### 40. Grading Students
 #### 41. Funny String
+#### 42. Breaking the Records
