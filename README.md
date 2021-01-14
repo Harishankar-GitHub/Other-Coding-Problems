@@ -1,15 +1,15 @@
 # :sparkles: Other Coding Problems :sparkles:
 
-#### 1.  [Remove a word from a String](https://github.com/Harishankar-GitHub/Other-Coding-Problems/tree/master/Remove%20a%20word%20from%20a%20String/src)
-#### 2.  [Most repeating element in an array](https://github.com/Harishankar-GitHub/Other-Coding-Problems/tree/master/Most%20repeating%20element%20in%20Array/src)
+#### 1.  [Remove a word from a String](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Remove%20a%20word%20from%20a%20String/src/RemoveWordFromString.java)
+#### 2.  [Most repeating element in an array](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Most%20repeating%20element%20in%20Array/src/MostRepeatingElementInArray.java)
 #### 3.  [Strings](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Strings/src/Strings.java)
-#### 4.  Substring
-#### 5.  Anagrams
-#### 6.  LinkedList
-#### 7.  Nth smallest number in an array
-#### 8.  Make Anagram
-#### 9.  ArrayList HackerRank
-#### 10. Alternating Characters
+#### 4.  [Substring](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Substring/src/Substring.java)
+#### 5.  [Anagrams](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Anagrams/src/Anagrams.java)
+#### 6.  [LinkedList](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/LinkedList/src/Main.java)
+#### 7.  [Nth smallest number in an array](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Nth%20smallest%20number%20in%20an%20array/src/Main.java)
+#### 8.  [Make Anagram](https://github.com/Harishankar-GitHub/Other-Coding-Problems/tree/master/Make%20Anagram)
+#### 9.  [ArrayList HackerRank](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/ArrayList%20HackerRank/src/Main.java)
+#### 10. [Alternating Characters](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Alternating%20Characters/src/Main.java)
 #### 11. Sherlock and the Valid String
 #### 12. Java String Tokens
 #### 13. Repeated String
