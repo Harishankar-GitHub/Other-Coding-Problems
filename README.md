@@ -10,11 +10,11 @@
 #### 8.  [Make Anagram](https://github.com/Harishankar-GitHub/Other-Coding-Problems/tree/master/Make%20Anagram)
 #### 9.  [ArrayList HackerRank](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/ArrayList%20HackerRank/src/Main.java)
 #### 10. [Alternating Characters](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Alternating%20Characters/src/Main.java)
-#### 11. Sherlock and the Valid String
-#### 12. Java String Tokens
-#### 13. Repeated String
-#### 14. String Reverse - Palindrome
-#### 15. Map
+#### 11. [Sherlock and the Valid String](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Sherlock%20and%20the%20Valid%20String/src/Main.java)
+#### 12. [Java String Tokens](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Java%20String%20Tokens/src/Main.java)
+#### 13. [Repeated String](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Repeated%20String/src/Main.java)
+#### 14. [String Reverse - Palindrome](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/String%20Reverse/src/Main.java)
+#### 15. [Map](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Map/src/Main.java)
 #### 16. End of file
 #### 17. List
 #### 18. Hash Set
