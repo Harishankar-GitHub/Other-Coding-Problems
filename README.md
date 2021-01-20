@@ -47,3 +47,4 @@
 #### 45. Nth largest element in an array
 #### 46. Get Maximum Generated Array
 #### 47. Max Number of K-Sum Pairs
+#### 48. Divisible Sum Pairs
