@@ -48,3 +48,4 @@
 #### 46. [Get Maximum Generated Array](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Get%20Maximum%20Generated%20Array/src/Main.java)
 #### 47. [Max Number of K-Sum Pairs](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Max%20Number%20of%20K-Sum%20Pairs/src/Main.java)
 #### 48. [Divisible Sum Pairs](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Divisible%20Sum%20Pairs/src/Main.java)
+#### 49. [Replacing Array Elements with its Rank]()
