@@ -49,4 +49,5 @@
 #### 47. [Max Number of K-Sum Pairs](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Max%20Number%20of%20K-Sum%20Pairs/src/Main.java)
 #### 48. [Divisible Sum Pairs](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Divisible%20Sum%20Pairs/src/Main.java)
 #### 49. [Replacing Array Elements with its Rank](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Replacing%20Array%20Elements%20with%20its%20Rank/src/Program.java)
-#### 50. [Maximum 69 Number]()
+#### 50. [Maximum 69 Number](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Maximum%2069%20Number/src/Solution.java)
+#### 51. [How Many Numbers Are Smaller Than the Current Number]()
