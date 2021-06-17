@@ -50,4 +50,5 @@
 #### 48. [Divisible Sum Pairs](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Divisible%20Sum%20Pairs/src/Main.java)
 #### 49. [Replacing Array Elements with its Rank](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Replacing%20Array%20Elements%20with%20its%20Rank/src/Program.java)
 #### 50. [Maximum 69 Number](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Maximum%2069%20Number/src/Solution.java)
-#### 51. [How Many Numbers Are Smaller Than the Current Number]()
+#### 51. [How Many Numbers Are Smaller Than the Current Number](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/src/Solution.java)
+#### 52. [Majority Element]()
