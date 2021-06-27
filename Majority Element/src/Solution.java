@@ -33,14 +33,6 @@ public class Solution
                 return num;
             }
         }
-
-        for (Map.Entry<Integer, Integer> element : countMap.entrySet())
-        {
-            if (element.getValue() > majorityCount)
-            {
-                return element.getKey();
-            }
-        }
         return -1;
     }
 
