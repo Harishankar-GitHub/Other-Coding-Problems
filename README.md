@@ -52,4 +52,5 @@
 #### 50. [Maximum 69 Number](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Maximum%2069%20Number/src/Solution.java)
 #### 51. [How Many Numbers Are Smaller Than the Current Number](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/src/Solution.java)
 #### 52. [Majority Element](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Majority%20Element/src/Solution.java)
-#### 53. [Find Pivot Index]()
+#### 53. [Find Pivot Index](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Find%20Pivot%20Index/src/Solution.java)
+#### 54. [Missing Number]()
