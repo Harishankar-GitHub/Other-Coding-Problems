@@ -10,6 +10,8 @@ public class Main {
         System.out.println("Fibonacci of " + num + " is " + fibonacciValue(num));
         System.out.println("Fibonacci series : ");
         fibonacciSeries(num);
+        System.out.println();
+        System.out.println("Fibonacci series using Recursion : " + fibonacciValue_Using_Recursion(num));
     }
 
     static int fibonacciValue(int num)
@@ -52,5 +54,13 @@ public class Main {
                 count--;
             }
         }
+    }
+
+    static int fibonacciValue_Using_Recursion(int num)
+    {
+        if(num == 0) return 0;
+        if(num == 1) return 1;
+
+        return fibonacciValue_Using_Recursion(num - 1) + fibonacciValue_Using_Recursion(num - 2);
     }
 }
