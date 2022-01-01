@@ -54,4 +54,5 @@
 #### 52. [Majority Element](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Majority%20Element/src/Solution.java)
 #### 53. [Find Pivot Index](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Find%20Pivot%20Index/src/Solution.java)
 #### 54. [Missing Number](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Missing%20Number/src/Solution.java)
-#### 55. [Leaders in an Array]()
+#### 55. [Leaders in an Array](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Leaders%20in%20an%20Array/src/Solution.java)
+#### 56. [Sort the numbers according to their sum of digits]()
