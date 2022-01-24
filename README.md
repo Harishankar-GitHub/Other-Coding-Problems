@@ -56,4 +56,5 @@
 #### 54. [Missing Number](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Missing%20Number/src/Solution.java)
 #### 55. [Leaders in an Array](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Leaders%20in%20an%20Array/src/Solution.java)
 #### 56. [Sort the numbers according to their sum of digits](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Sort%20the%20numbers%20according%20to%20their%20sum%20of%20digits/src/Solution.java)
-#### 57. [Sort Prime Numbers in an Array in Descending Order]()
+#### 57. [Sort Prime Numbers in an Array in Descending Order](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Sort%20Prime%20Numbers%20in%20an%20Array%20in%20Descending%20Order/src/Solution.java)
+#### 58. [Minimum Adjacent Swaps Required To Group Binary Array - Interview Question]()
