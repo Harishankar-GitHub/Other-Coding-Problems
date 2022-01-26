@@ -58,4 +58,5 @@
 #### 56. [Sort the numbers according to their sum of digits](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Sort%20the%20numbers%20according%20to%20their%20sum%20of%20digits/src/Solution.java)
 #### 57. [Sort Prime Numbers in an Array in Descending Order](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Sort%20Prime%20Numbers%20in%20an%20Array%20in%20Descending%20Order/src/Solution.java)
 #### 58. [Minimum Adjacent Swaps Required To Group Binary Array - Interview Question](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Minimum%20Adjacent%20Swaps%20Required%20To%20Group%20Binary%20Array/src/Solution.java)
-#### 59. [Search in Rotated Sorted Array]()
+#### 59. [Search in Rotated Sorted Array](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Search%20in%20Rotated%20Sorted%20Array/src/Solution.java)
+#### 60. [Find Subarray With Given Sum]()
