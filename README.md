@@ -60,4 +60,5 @@
 #### 58. [Minimum Adjacent Swaps Required To Group Binary Array - Interview Question](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Minimum%20Adjacent%20Swaps%20Required%20To%20Group%20Binary%20Array/src/Solution.java)
 #### 59. [Search in Rotated Sorted Array](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Search%20in%20Rotated%20Sorted%20Array/src/Solution.java)
 #### 60. [Find Subarray With Given Sum](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Find%20Subarray%20With%20Given%20Sum/src/Solution.java)
-#### 61. [Subarray With Given Sum]()
+#### 61. [Subarray With Given Sum](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Subarray%20With%20Given%20Sum/src/Solution.java)
+#### 62. [Find Common Elements In Three Sorted Arrays]()
