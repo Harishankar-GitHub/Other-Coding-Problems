@@ -61,4 +61,5 @@
 #### 59. [Search in Rotated Sorted Array](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Search%20in%20Rotated%20Sorted%20Array/src/Solution.java)
 #### 60. [Find Subarray With Given Sum](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Find%20Subarray%20With%20Given%20Sum/src/Solution.java)
 #### 61. [Subarray With Given Sum](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Subarray%20With%20Given%20Sum/src/Solution.java)
-#### 62. [Find Common Elements In Three Sorted Arrays]()
+#### 62. [Find Common Elements In Three Sorted Arrays](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Find%20Common%20Elements%20In%20Three%20Sorted%20Arrays/src/Solution.java)
+#### 63. [Find Max And Min In An Array]()
