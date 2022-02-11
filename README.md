@@ -62,4 +62,5 @@
 #### 60. [Find Subarray With Given Sum](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Find%20Subarray%20With%20Given%20Sum/src/Solution.java)
 #### 61. [Subarray With Given Sum](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Subarray%20With%20Given%20Sum/src/Solution.java)
 #### 62. [Find Common Elements In Three Sorted Arrays](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Find%20Common%20Elements%20In%20Three%20Sorted%20Arrays/src/Solution.java)
-#### 63. [Find Max And Min In An Array]()
+#### 63. [Find Max And Min In An Array](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Find%20Max%20And%20Min%20In%20An%20Array/src/Solution.java)
+#### 64. [Pairs of Songs With Total Durations Divisible by 60]()
