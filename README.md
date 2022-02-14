@@ -64,4 +64,5 @@
 #### 62. [Find Common Elements In Three Sorted Arrays](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Find%20Common%20Elements%20In%20Three%20Sorted%20Arrays/src/Solution.java)
 #### 63. [Find Max And Min In An Array](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Find%20Max%20And%20Min%20In%20An%20Array/src/Solution.java)
 #### 64. [Pairs of Songs With Total Durations Divisible by 60](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060/src/Solution.java)
-#### 65. [Move Zeros]()
+#### 65. [Move Zeros](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Move%20Zeros/src/Solution.java)
+#### 66. [Single Number]()
