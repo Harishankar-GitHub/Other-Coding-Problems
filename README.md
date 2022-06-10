@@ -67,4 +67,5 @@
 #### 65. [Move Zeros](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Move%20Zeros/src/Solution.java)
 #### 66. [Single Number](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Single%20Number/src/Solution.java)
 #### 67. [Graph - Adjacency Matrix and Adjacency List](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Graph%20-%20Adjacency%20Matrix%20and%20Adjacency%20List/src/Solution.java)
-#### 68. [Happy Number]()
+#### 68. [Happy Number](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Happy%20Number/src/Solution.java)
+#### 69. [Beautiful Numbers]()
