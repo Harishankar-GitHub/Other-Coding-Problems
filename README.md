@@ -66,4 +66,5 @@
 #### 64. [Pairs of Songs With Total Durations Divisible by 60](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060/src/Solution.java)
 #### 65. [Move Zeros](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Move%20Zeros/src/Solution.java)
 #### 66. [Single Number](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Single%20Number/src/Solution.java)
-#### 67. [Graph - Adjacency Matrix and Adjacency List]()
+#### 67. [Graph - Adjacency Matrix and Adjacency List](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Graph%20-%20Adjacency%20Matrix%20and%20Adjacency%20List/src/Solution.java)
+#### 68. [Happy Number]()
