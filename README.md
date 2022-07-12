@@ -71,4 +71,5 @@
 #### 69. [Beautiful Numbers](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Beautiful%20Numbers/src/Solution.java)
 #### 70. [Recursion](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Recursion/src/Recursion.java)
 #### 71. [Longest Mountain in Array](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Longest%20Mountain%20in%20Array/src/Solution.java)
-#### 72. [Power of Two]()
+#### 72. [Power of Two](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Power%20of%20Two/src/Solution.java)
+#### 73. [Valid Mountain Array]()
