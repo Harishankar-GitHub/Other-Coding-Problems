@@ -74,4 +74,5 @@
 #### 72. [Power of Two](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Power%20of%20Two/src/Solution.java)
 #### 73. [Valid Mountain Array](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Valid%20Mountain%20Array/src/Solution.java)
 #### 74. [Find the Duplicate Number](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Find%20the%20Duplicate%20Number/src/Solution.java)
-#### 75. [Climbing Stairs]()
+#### 75. [Climbing Stairs](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Climbing%20Stairs/src/Solution.java)
+#### 76. [X Power Y - Only Positive Numbers]()
