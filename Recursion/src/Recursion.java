@@ -7,6 +7,10 @@ public class Recursion {
         printFiveToOne(5);
         System.out.println("Print numbers from 1-5:");
         printOneToFive(5);
+        System.out.println("Say Digits");
+        sayDigits(123);
+        System.out.println("Say Digits");
+        sayDigits(456);
     }
 
     private static int factorial(int n) {
@@ -56,5 +60,21 @@ public class Recursion {
 
         // Tail Recursion - Recursive call comes after processing.
         printFiveToOne(n-1);
+    }
+
+    private static void sayDigits(int n) {
+        String[] digitsArr = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
+        sayDigits(n, digitsArr);
+    }
+
+    private static void sayDigits(int n, String[] digitsArr) {
+        if (n == 0) return;
+
+        int lastDigit = n % 10;
+        n = n / 10;
+
+        sayDigits(n, digitsArr);
+
+        System.out.println(digitsArr[lastDigit]);
     }
 }
