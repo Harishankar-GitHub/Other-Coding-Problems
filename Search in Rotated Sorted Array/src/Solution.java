@@ -16,6 +16,11 @@ public class Solution {
         System.out.println("Array: {4, 5, 6, 7, 0, 1, 2}, Target: 0, Target is in the position: " + search_method_2(new int[]{4, 5, 6, 7, 0, 1, 2}, 0));
         System.out.println("Array: {4, 5, 6, 7, 0, 1, 2}, Target: 3, Target is in the position: " + search_method_2(new int[]{4, 5, 6, 7, 0, 1, 2}, 3));
         System.out.println("Array: {1}, Target: 0, Target is in the position: " + search_method_2(new int[]{1}, 0));
+
+        System.out.println("Method 3"); // Easy to understand
+        System.out.println("Array: {4, 5, 6, 7, 0, 1, 2}, Target: 0, Target is in the position: " + search_method_3(new int[]{4, 5, 6, 7, 0, 1, 2}, 0));
+        System.out.println("Array: {4, 5, 6, 7, 0, 1, 2}, Target: 3, Target is in the position: " + search_method_3(new int[]{4, 5, 6, 7, 0, 1, 2}, 3));
+        System.out.println("Array: {1}, Target: 0, Target is in the position: " + search_method_3(new int[]{1}, 0));
     }
 
     public static int search(int[] nums, int target) {
@@ -67,5 +72,35 @@ public class Solution {
             }
         }
         return -1;
+    }
+
+    public static int search_method_3(int[] nums, int target) {
+        int ans = -1;
+        int start = 0;
+        int end = nums.length - 1;
+
+        while (start <= end) {
+            int mid = (start + end) / 2;
+
+            int firstNum = nums[0];
+            int middleNum = nums[mid];
+
+            if (middleNum >= firstNum && target < firstNum) {
+                start = mid + 1;
+            } else if (middleNum < firstNum && target >= firstNum) {
+                end = mid - 1;
+            } else {    // Usual Binary Search
+                if (middleNum < target) {
+                    start = mid + 1;
+                } else if (middleNum > target) {
+                    end = mid - 1;
+                } else {
+                    ans = mid;
+                    break;
+                }
+            }
+        }
+
+        return ans;
     }
 }
