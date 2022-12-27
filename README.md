@@ -76,3 +76,6 @@
 #### 74. [Find the Duplicate Number](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Find%20the%20Duplicate%20Number/src/Solution.java)
 #### 75. [Climbing Stairs](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Climbing%20Stairs/src/Solution.java)
 #### 76. [X Power Y - Only Positive Numbers](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/X%20Power%20Y%20-%20Only%20Positive%20Numbers/src/Solution.java)
+#### 77. [X Power Y](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/X%20Power%20Y/src/Solution.java)
+#### 78. [Peak Index in a Mountain Array](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Peak%20Index%20in%20a%20Mountain%20Array/src/Solution.java)
+#### 79. [Replace Elements with Greatest Element on Right Side](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/src/Solution.java)
