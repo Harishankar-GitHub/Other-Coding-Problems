@@ -82,4 +82,5 @@
 #### 80. [Find Peak Element](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Find%20Peak%20Element/src/Solution.java)
 #### 81. [Maximum Subarray](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Maximum%20Subarray/src/Program.java)
 #### 82. [Longest Common Prefix](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Longest%20Common%20Prefix/src/Program.java)
-#### 83. [Merge Two Sorted Lists]()
+#### 83. [Merge Two Sorted Lists](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Merge%20Two%20Sorted%20Lists/src/Program.java)
+#### 84. [Find the Index of the First Occurrence in a String]()
