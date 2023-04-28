@@ -81,4 +81,5 @@
 #### 79. [Replace Elements with Greatest Element on Right Side](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/src/Solution.java)
 #### 80. [Find Peak Element](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Find%20Peak%20Element/src/Solution.java)
 #### 81. [Maximum Subarray](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Maximum%20Subarray/src/Program.java)
-#### 82. [Longest Common Prefix]()
+#### 82. [Longest Common Prefix](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Longest%20Common%20Prefix/src/Program.java)
+#### 83. [Merge Two Sorted Lists]()
