@@ -85,4 +85,5 @@
 #### 83. [Merge Two Sorted Lists](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Merge%20Two%20Sorted%20Lists/src/Program.java)
 #### 84. [Find the Index of the First Occurrence in a String](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/src/Program.java)
 #### 85. [Plus One](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Plus%20One/src/Program.java)
-#### 86. [Merge Sorted Array]()
+#### 86. [Merge Sorted Array](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Merge%20Sorted%20Array/src/Program.java)
+#### 87. [Queue implementation using Stack]()
