@@ -89,5 +89,5 @@
 #### 87. [Queue implementation using Stack](https://github.com/Harishankar-GitHub/Other-Coding-Problems/tree/master/Queue%20implementation%20using%20Stack/src)
 #### 88. [Contains Duplicate](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Contains%20Duplicate/src/Solution.java)
 #### 89. [Find Minimum in Rotated Sorted Array](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Find%20Minimum%20in%20Rotated%20Sorted%20Array/src/Solution.java)
-#### 90. [3Sum]()
-
+#### 90. [3Sum](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/ThreeSum/src/Problem.java)
+#### 91. [Container With Most Water]()
