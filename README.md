@@ -87,5 +87,6 @@
 #### 85. [Plus One](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Plus%20One/src/Program.java)
 #### 86. [Merge Sorted Array](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Merge%20Sorted%20Array/src/Program.java)
 #### 87. [Queue implementation using Stack](https://github.com/Harishankar-GitHub/Other-Coding-Problems/tree/master/Queue%20implementation%20using%20Stack/src)
-#### 88. [Contains Duplicate]()
+#### 88. [Contains Duplicate](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Contains%20Duplicate/src/Solution.java)
+#### 89. [Find Minimum in Rotated Sorted Array]()
 
