@@ -21,6 +21,11 @@ public class Solution {
         System.out.println("Array: {4, 5, 6, 7, 0, 1, 2}, Target: 0, Target is in the position: " + search_method_3(new int[]{4, 5, 6, 7, 0, 1, 2}, 0));
         System.out.println("Array: {4, 5, 6, 7, 0, 1, 2}, Target: 3, Target is in the position: " + search_method_3(new int[]{4, 5, 6, 7, 0, 1, 2}, 3));
         System.out.println("Array: {1}, Target: 0, Target is in the position: " + search_method_3(new int[]{1}, 0));
+
+        System.out.println("Method 4"); // Easy to understand
+        System.out.println("Array: {4, 5, 6, 7, 0, 1, 2}, Target: 0, Target is in the position: " + search_method_4(new int[]{4, 5, 6, 7, 0, 1, 2}, 0));
+        System.out.println("Array: {4, 5, 6, 7, 0, 1, 2}, Target: 3, Target is in the position: " + search_method_4(new int[]{4, 5, 6, 7, 0, 1, 2}, 3));
+        System.out.println("Array: {1}, Target: 0, Target is in the position: " + search_method_4(new int[]{1}, 0));
     }
 
     public static int search(int[] nums, int target) {
@@ -102,5 +107,49 @@ public class Solution {
         }
 
         return ans;
+    }
+
+    public static int search_method_4(int[] nums, int target) {
+        if (nums.length == 0) return -1;
+
+        int left = 0;
+        int right = nums.length - 1;
+
+        // This while loop is to find out the index of minimum number in the array.
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+
+            if (nums[mid] > nums[right]) {
+                left = mid + 1;
+            } else {
+                right = mid;
+            }
+        }
+
+        int indexOfMinimumNumber = left;
+        left = 0;
+        right = nums.length - 1;
+
+        // This condition is to find out whether to search in left half of the array or to the right.
+        if (target >= nums[indexOfMinimumNumber] && target <= nums[right]) {
+            left = indexOfMinimumNumber;
+        } else {
+            right = indexOfMinimumNumber;
+        }
+
+        // After finding out which half of the array to search, the below code is usual binary search to search through the array.
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+
+            if (nums[mid] == target) {
+                return mid;
+            } else if (nums[mid] < target) {
+                left = mid + 1;
+            } else {
+                right = mid - 1;
+            }
+        }
+
+        return -1;
     }
 }
