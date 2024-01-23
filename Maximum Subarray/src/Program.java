@@ -7,17 +7,14 @@ public class Program {
     }
 
     public static int maxSubArray(int[] nums) {
-        int maxSoFar = nums[0];
-        int currentSum = nums[0];
+        int currentMaxSum = nums[0];
+        int maxSumSoFar = nums[0];
 
         for (int i = 1; i < nums.length; i++) {
-            if (currentSum < 0) currentSum = 0;
-
-            currentSum = currentSum + nums[i];
-
-            if (currentSum > maxSoFar) maxSoFar = currentSum;
+            currentMaxSum = Math.max(currentMaxSum + nums[i], nums[i]);
+            maxSumSoFar = Math.max(currentMaxSum, maxSumSoFar);
         }
 
-        return maxSoFar;
+        return maxSumSoFar;
     }
 }
