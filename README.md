@@ -91,4 +91,5 @@
 #### 89. [Find Minimum in Rotated Sorted Array](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Find%20Minimum%20in%20Rotated%20Sorted%20Array/src/Solution.java)
 #### 90. [3Sum](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/ThreeSum/src/Problem.java)
 #### 91. [Container With Most Water](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Container%20With%20Most%20Water/src/Solution.java)
-#### 92. [Longest Substring Without Repeating Characters]()
+#### 92. [Longest Substring Without Repeating Characters](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Longest%20Substring%20Without%20Repeating%20Characters/src/Solution.java)
+#### 93. [Longest Repeating Character Replacement]()
