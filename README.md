@@ -95,4 +95,5 @@
 #### 93. [Longest Repeating Character Replacement](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Longest%20Repeating%20Character%20Replacement/src/Solution.java)
 #### 94. [Valid Anagram](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Valid%20Anagram/src/Solution.java)
 #### 95. [Group Anagrams](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Group%20Anagrams/src/Solution.java)
-#### 96. [Valid Parentheses]()
+#### 96. [Valid Parentheses](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Valid%20Parentheses/src/Solution.java)
+#### 97. [Valid Palindrome]()
