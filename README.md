@@ -96,4 +96,5 @@
 #### 94. [Valid Anagram](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Valid%20Anagram/src/Solution.java)
 #### 95. [Group Anagrams](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Group%20Anagrams/src/Solution.java)
 #### 96. [Valid Parentheses](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Valid%20Parentheses/src/Solution.java)
-#### 97. [Valid Palindrome]()
+#### 97. [Valid Palindrome](https://github.com/Harishankar-GitHub/Other-Coding-Problems/blob/master/Valid%20Palindrome/src/Solution.java)
+#### 98. [Longest Palindromic Substring]()
