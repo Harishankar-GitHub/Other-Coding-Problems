@@ -5,13 +5,16 @@ public class Solution {
     public static void main(String[] args) {
         ListNode listNode = removeElements(buildListNode(), 6);
 
-        while (listNode != null) {
-            System.out.print(listNode.val);
-            listNode = listNode.next;
-        }
+        printListNodes(listNode);
+
+        listNode = removeElements_another_solution(buildListNode(), 6);
+
+        printListNodes(listNode);
     }
 
     public static ListNode removeElements(ListNode head, int val) {
+        // Used another linkedList to add values except val.
+
         ListNode currentNode = head;
         ListNode result = new ListNode(0);
         ListNode resultHead = result;
@@ -26,6 +29,26 @@ public class Solution {
         }
 
         return resultHead.next;
+    }
+
+    public static ListNode removeElements_another_solution(ListNode head, int val) {
+        // Used same linkedList and de-referencing the node if it's value is equal to val.
+
+        while (head != null && head.val == val) {
+            head = head.next;
+        }
+
+        ListNode currentNode = head;
+
+        while (currentNode != null && currentNode.next != null) {
+            if (currentNode.next.val == val) {
+                currentNode.next = currentNode.next.next;
+            } else {
+                currentNode = currentNode.next;
+            }
+        }
+
+        return head;
     }
 
     private static ListNode buildListNode() {
@@ -54,4 +77,13 @@ public class Solution {
          ListNode(int val) { this.val = val; }
          ListNode(int val, ListNode next) { this.val = val; this.next = next; }
      }
+
+    private static void printListNodes(ListNode listNode) {
+        while (listNode != null) {
+            System.out.print(listNode.val);
+            listNode = listNode.next;
+        }
+
+        System.out.println();
+    }
 }
